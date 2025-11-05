@@ -1,0 +1,16 @@
+package newjava;
+
+public class IncDec {
+    public static void main(String[] args) {
+        int a = 20;
+        int b = 10;
+        int c;
+        int d;
+        c = ++b;
+        d = --c;
+        System.out.println(" a = " + a);
+        System.out.println(" b = " + b);
+        System.out.println(" c = " + c);
+        System.out.println(" d = " + d);
+    }
+}
