@@ -5,7 +5,7 @@ public class sampleSwitch {
         Scanner scanner = new Scanner(System.in);
         int n;
         int i;
-        System.out.println("enter the value for n :");
+        System.out.print("enter the value for n :");
         n = scanner.nextInt();
 
         for(i=1;i<n;i++){
