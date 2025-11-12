@@ -34,5 +34,8 @@ public class firstclass {
         System.out.println("rollNo : "+s1.getrollNo());
         System.out.println("Percent :"+s1.getPercent());
         System.out.println("Name :"+s1.getName());
+            System.out.println(s1.rollNo);
+
     }
+    
 }
