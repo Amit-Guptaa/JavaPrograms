@@ -1,12 +1,12 @@
 class student {
     int rollNo;
-    double Percent;
+    float Percent;
     String Name;
 
     void setrollNo(int rn){
         rollNo=rn;
     }
-    void setPercent(double pr){
+    void setPercent(float pr){
         Percent=pr;
     }
     void setName(String nm){
@@ -15,7 +15,7 @@ class student {
     int getrollNo(){
         return(rollNo);
     }
-    double getPercent(){
+    float getPercent(){
         return(Percent);
     }
     String getName(){
@@ -28,7 +28,7 @@ public class firstclass {
     public static void main(String[] args) {
         student s1= new student();
         s1.setrollNo(101);
-        s1.setPercent(89.6);
+        s1.setPercent(89.6f);
         s1.setName("Amit Gupta");
 
         System.out.println("rollNo : "+s1.getrollNo());
