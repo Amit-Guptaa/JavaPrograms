@@ -5,8 +5,5 @@ public class doWhile {
             System.out.println(" tik tik tik "+n);
         n--;
         } while (n>0);
-        
- 
-            }
-
+ }
 }
