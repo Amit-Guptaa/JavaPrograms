@@ -1,5 +1,3 @@
-package javaarray;
-
 public class threeDmatrix {
     public static void main(String[] args) {
         int[][][] threeD = new int[3][4][5];
