@@ -1,4 +1,4 @@
-package newjava;
+
 
 public class modulus {
     public static void main(String[] args) {

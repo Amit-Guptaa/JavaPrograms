@@ -1,4 +1,4 @@
-package newjava;
+
 
 public class boolLogic {
     public static void main(String[] args) {

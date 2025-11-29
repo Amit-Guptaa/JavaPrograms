@@ -1,4 +1,4 @@
-package newjava;
+
 
 public class IncDec {
     public static void main(String[] args) {
